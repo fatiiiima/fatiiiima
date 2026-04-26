@@ -57,5 +57,5 @@ Passionate about AI-driven systems, Agentic AI, and real-world automation.
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fatiiiima&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
