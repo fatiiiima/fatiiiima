@@ -42,15 +42,15 @@ Passionate about AI-driven systems, Agentic AI, and real-world automation.
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 </p>
 
-**AI & ML** — PyTorch · Transformers · LLMs · scikit-learn · XGBoost · LightGBM · Hugging Face  
-**Dev** — Python · C++ · Flask · React · Angular · NestJS  
-**Security** — Sysmon · YARA · SIGMA · GNS3 · OSPF · EIGRP · MPLS  
-**Tools** — OpenCV · Power BI · Git
+**AI & ML** - PyTorch · Transformers · LLMs · scikit-learn · XGBoost · LightGBM · Hugging Face  
+**Dev** - Python · C++ · Flask · React · Angular · NestJS  
+**Security** - Sysmon · YARA · SIGMA · GNS3 · OSPF · EIGRP · MPLS  
+**Tools** - OpenCV · Power BI · Git
 
 ---
 
 ### Experience
 
-- **Data & BI Intern** @ Air Liquide Tunisie *(Aug–Sep 2025)* — Power BI dashboards, KPIs & sales trend analysis
-- **IT Intern** @ SERGAZ *(Aug–Sep 2024)* — Cisco network migration, OSPF/EIGRP/MPLS routing
+- **Data & BI Intern** @ Air Liquide Tunisie *(Aug–Sep 2025)* - Power BI dashboards, KPIs & sales trend analysis
+- **IT Intern** @ SERGAZ *(Aug–Sep 2024)* - Cisco network migration, OSPF/EIGRP/MPLS routing
 
