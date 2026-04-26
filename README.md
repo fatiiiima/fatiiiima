@@ -54,8 +54,3 @@ Passionate about AI-driven systems, Agentic AI, and real-world automation.
 - **Data & BI Intern** @ Air Liquide Tunisie *(Aug–Sep 2025)* — Power BI dashboards, KPIs & sales trend analysis
 - **IT Intern** @ SERGAZ *(Aug–Sep 2024)* — Cisco network migration, OSPF/EIGRP/MPLS routing
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fatiiiima&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
