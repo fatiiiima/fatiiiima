@@ -10,7 +10,7 @@
 
 ### About me
 
-Fourth-year Engineering Student (Graduating in 2027)
+Fourth-year Engineering Student (Graduating in 2027)  
 Passionate about AI-driven systems, Agentic AI, and real-world automation.
 
 ---
