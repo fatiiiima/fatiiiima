@@ -41,9 +41,9 @@ Passionate about Deep Learning and Image/Video Processing.
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 </p>
 
-**Machine Learning & Deep Learning** PyTorch . TensorFlow/Keras . scikit-learn . Hugging Face Transformers .CNNs . Vision Transformers . model fine-tuning and evaluation.
-**Image Processing & Computer Vision** Image classification . OpenCV . YOLO-World . vision-language models.
-**Tools & Programming** Python, C/C++ . Linux, Git . FastAPI . Flask . REST APIs.
+**Machine Learning & Deep Learning** PyTorch . TensorFlow/Keras . scikit-learn . Hugging Face Transformers .CNNs . Vision Transformers . model fine-tuning and evaluation.\\
+**Image Processing & Computer Vision** Image classification . OpenCV . YOLO-World . vision-language models.\\
+**Tools & Programming** Python, C/C++ . Linux, Git . FastAPI . Flask . REST APIs.\\
 **Languages** Arabic (native) · French (DALF C1 – 73/100) · English (fluent)
 
 ---
