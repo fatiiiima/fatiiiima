@@ -10,8 +10,8 @@
 
 ### About me
 
-Fourth-year Engineering Student (Graduating in 2027)  
-Passionate about AI-driven systems, Agentic AI, and real-world automation.
+Final-Year Engineering Student in Telecommunications (Graduating in 2027)  
+Passionate about Deep Learning and Image/Video Processing.
 
 ---
 
@@ -19,7 +19,7 @@ Passionate about AI-driven systems, Agentic AI, and real-world automation.
 
 | Project | Stack | Details |
 |---|---|---|
-| [Car Price Predictor](https://github.com/fatiiiima/Car-Price-Prediction) | `ExtraTrees` `Flask` `React` `XGBoost` | Prediction with 80% accuracy on Tunisian market data |
+| [Car Price Predictor](https://github.com/fatiiiima/Car-Price-Prediction) | `ExtraTrees` `Flask` `React` `XGBoost` | Prediction with R² = 0.86 on Tunisian market data |
 | [Facial Recognition System](https://github.com/fatiiiima/Facial-Recognition-System) | `OpenCV` `HOG/LBP` `SVM` `DeepFace` | Multi-method feature extraction & classification |
 
 ---
@@ -41,15 +41,16 @@ Passionate about AI-driven systems, Agentic AI, and real-world automation.
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 </p>
 
-**AI & ML** - PyTorch · Transformers · LLMs · scikit-learn · XGBoost · LightGBM · Hugging Face  
-**Dev** - Python · C++ · Flask · React · Angular · NestJS  
-**Security** - Sysmon · YARA · SIGMA · GNS3 · OSPF · EIGRP · MPLS  
-**Tools** - OpenCV · Power BI · Git
+**Machine Learning & Deep Learning** PyTorch . TensorFlow/Keras . scikit-learn . Hugging Face Transformers .CNNs . Vision Transformers . model fine-tuning and evaluation.
+**Image Processing & Computer Vision** Image classification . OpenCV . YOLO-World . vision-language models.
+**Tools & Programming** Python, C/C++ . Linux, Git . FastAPI . Flask . REST APIs.
+**Languages** Arabic (native) · French (DALF C1 – 73/100) · English (fluent)
 
 ---
 
 ### Experience
-
+- **Data & AI Intern** @Genow Tech *(Jul_Sep 2026)* - Genow
+Designed Designed an automated pipeline combining LLMs and vision models to interpret rules expressed in natural language, automate the validation of road-image dataset annotations, and generate explanatory reports.
 - **Data & BI Intern** @ Air Liquide Tunisie *(Aug–Sep 2025)* - Power BI dashboards, KPIs & sales trend analysis
 - **IT Intern** @ SERGAZ *(Aug–Sep 2024)* - Cisco network migration, OSPF/EIGRP/MPLS routing
 
