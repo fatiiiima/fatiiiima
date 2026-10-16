@@ -19,7 +19,6 @@ Passionate about AI-driven systems, Agentic AI, and real-world automation.
 
 | Project | Stack | Details |
 |---|---|---|
-| [AI-based EDR](#) *(in progress)* | `Python` `Sysmon` `YARA/SIGMA` `ML` | Automated threat detection & incident response |
 | [Car Price Predictor](https://github.com/fatiiiima/Car-Price-Prediction) | `ExtraTrees` `Flask` `React` `XGBoost` | Prediction with 80% accuracy on Tunisian market data |
 | [Facial Recognition System](https://github.com/fatiiiima/Facial-Recognition-System) | `OpenCV` `HOG/LBP` `SVM` `DeepFace` | Multi-method feature extraction & classification |
 
